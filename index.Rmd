@@ -68,3 +68,4 @@ figura1=layout(figura1,title="Comparativo del INPC vs remuneraciones reales",xax
 figura1
 ```
 
+FIN DE DOCUMENTO.
